@@ -6,10 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <?php
-     include('nav.php');
-    include('map.php');
-    ?>
-
+    
 </body>
 </html>

@@ -3,13 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Report your problem here</title>
 </head>
 <body>
-    <?php
-     include('nav.php');
-    include('map.php');
-    ?>
-
+    
 </body>
 </html>
